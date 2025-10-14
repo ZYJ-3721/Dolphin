@@ -1,3 +1,9 @@
+# 优化
+优化模型下载默认存放路径
+```shell
+pip install git+https://github.com/ZYJ-3721/Dolphin.git@model_download
+```
+
 # Dolphin
 
 [Paper](https://arxiv.org/abs/2503.20212)
