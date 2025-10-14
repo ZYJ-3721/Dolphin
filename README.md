@@ -1,5 +1,5 @@
 # 优化
-优化模型下载默认存放路径
+优化模型下载时的默认存放路径，安装命令如下：
 ```shell
 pip install git+https://github.com/ZYJ-3721/Dolphin.git@model_download
 ```
